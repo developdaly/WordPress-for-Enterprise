@@ -5,20 +5,20 @@ As this document is just getting started I'd like the WordPress community to con
 
 ## History
 
-WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mullenweg and Mike Little forked the software to create WordPress. As its onset, WordPress was a personal published platform: blogging software. Through its maturity, and most notable with the release of version 3.0 in 2010, WordPress is now considered a content management system. [[1]]
+WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mullenweg and Mike Little forked the software to create WordPress. As its onset, WordPress was a personal published platform: blogging software. Through its maturity, and most notable with the release of version 3.0 in 2010, WordPress is now considered a content management system. [[wphistory]]
 
-> A content management system (CMS) is a computer program that allows publishing, editing and modifying content as well as maintenance from a central interface. Such systems of content management provide procedures to manage workflow in a collaborative environment. These procedures can be manual steps or an automated cascade. [[2]]
+> A content management system (CMS) is a computer program that allows publishing, editing and modifying content as well as maintenance from a central interface. Such systems of content management provide procedures to manage workflow in a collaborative environment. These procedures can be manual steps or an automated cascade. [[wikicms]]
 
 ## Adoption
 
-* **17.4%** of all websites are powered by WordPress (54.7% of websites known to use a CMS) [[3]]
-* Brands using WordPress: All CBS local sites [newyork.cbslocal.com](http://newyork.cbslocal.com/) [[4]]
+* **17.4%** of all websites are powered by WordPress (54.7% of websites known to use a CMS) [[w3techs]]
+* Brands using WordPress: All CBS local sites [newyork.cbslocal.com](http://newyork.cbslocal.com/) [[wpvip]]
 
 ## Development
-* 80 releases since 2003 (18 major, 62 minor) [[5]]
+* 80 releases since 2003 (18 major, 62 minor) [[wpreleases]]
 
-[1]: http://codex.wordpress.org/History
-[2]: http://en.wikipedia.org/wiki/Content_management_system
-[3]: http://w3techs.com/technologies/overview/content_management/all
-[4]: http://vip.wordpress.com/clients/
-[5]: http://wordpress.org/download/release-archive/
+[wphistory]: http://codex.wordpress.org/History
+[wikicms]: http://en.wikipedia.org/wiki/Content_management_system
+[w3techs]: http://w3techs.com/technologies/overview/content_management/all
+[wpvip]: http://vip.wordpress.com/clients/
+[wpreleases]: http://wordpress.org/download/release-archive/
