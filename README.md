@@ -11,11 +11,33 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 
 ## Adoption
 
+*Ways in which WordPress adoption highlights its broad and/or extensive use.*
+
 * **17.4%** of all websites are powered by WordPress (54.7% of websites known to use a CMS) [[w3techs]]
 * Brands using WordPress: All CBS local sites [newyork.cbslocal.com](http://newyork.cbslocal.com/) [[wpvip]]
 
 ## Development
+
+*What sort of development practices and history makes WordPress attractive?*
+
 * 80 releases since 2003 (18 major, 62 minor) [[wpreleases]]
+
+## Documentation
+
+*Talk about the breadth of documentation and third-party sources.*
+
+## Security
+
+*Probably the most important factor to use as much detail as possible as to why WordPress is secure.*
+
+## Community
+
+*The community not only makes WordPress fun, but accessible and more useful.*
+
+## Compatibility
+
+*How does it integrate with systems large companies may use?*
+
 
 [wphistory]: http://codex.wordpress.org/History
 [wikicms]: http://en.wikipedia.org/wiki/Content_management_system
