@@ -21,6 +21,8 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 *What sort of development practices and history makes WordPress attractive?*
 
 * 80 releases since 2003 (18 major, 62 minor) [[wpreleases]]
+* WordPress is scalable, used on WordPress.com with over 35 billion page views per month. [[wpstats](http://en.wordpress.com/stats/)]
+* WordPress release candidates are beta tested by WordPress.com before the stable version is released.
 
 ## Documentation
 
@@ -30,6 +32,8 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 
 *Probably the most important factor to use as much detail as possible as to why WordPress is secure.*
 
+* Data input and outut is sanitized [[Data Validation](http://codex.wordpress.org/Data_Validation)]
+
 ## Community
 
 *The community not only makes WordPress fun, but accessible and more useful.*
@@ -38,6 +42,8 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 
 *How does it integrate with systems large companies may use?*
 
+* [Installing WordPress on Microsoft ISS](http://codex.wordpress.org/Installing_on_Microsoft_IIS)
+* Active Directory Authentication support. [[wpactivedirectory](http://wordpress.org/extend/plugins/active-directory-integration/)]
 
 [wphistory]: http://codex.wordpress.org/History
 [wikicms]: http://en.wikipedia.org/wiki/Content_management_system
