@@ -1,7 +1,7 @@
 WordPress for Enterprise
 ========================
 
-As this document is just getting started I'd like the WordPress community to contribute its best, most factually backed reasons why WordPress *can* and be used by large companies.
+As this document is just getting started I'd like the WordPress community to contribute its best, most factually backed reasons why WordPress *can* be used by large companies.
 
 ## History
 
