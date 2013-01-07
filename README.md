@@ -16,11 +16,18 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 * **17.4%** of all websites are powered by WordPress (54.7% of websites known to use a CMS) [[w3techs]]
 * Companies using WordPress
  * CBS local sites (ex. http://newyork.cbslocal.com/)
+ * Over 1,000 Best Buy stores [wpshowcase](http://wordpress.org/showcase/best-buy/)
+ * http://www.katiecouric.com/
+ * http://mashable.com/
+ * http://www.nationalgeographic.nl/
 * Government using WordPress
  * [State of Missouri](http://www.mo.gov/)
  * [Library of Congress](http://blogs.loc.gov/loc/)
  * http://data.NASA.gov - http://open.NASA.gov - http://code.NASA.gov
  * [Political usage stats](http://vip.wordpress.com/2012/09/13/wordpress-powers-politics/)
+* Education using WordPress
+ * http://www.boisestate.edu/
+ * http://umaine.edu/
 
 ## Development
 
