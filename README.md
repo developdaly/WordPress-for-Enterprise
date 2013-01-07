@@ -14,7 +14,13 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 *Ways in which WordPress adoption highlights its broad and/or extensive use.*
 
 * **17.4%** of all websites are powered by WordPress (54.7% of websites known to use a CMS) [[w3techs]]
-* Brands using WordPress: All CBS local sites [newyork.cbslocal.com](http://newyork.cbslocal.com/) [[wpvip]]
+* Companies using WordPress
+ * CBS local sites (ex. http://newyork.cbslocal.com/)
+* Government using WordPress
+ * [State of Missouri](http://www.mo.gov/)
+ * [Library of Congress](http://blogs.loc.gov/loc/)
+ * http://data.NASA.gov - http://open.NASA.gov - http://code.NASA.gov
+ * [Political usage stats](http://vip.wordpress.com/2012/09/13/wordpress-powers-politics/)
 
 ## Development
 
@@ -48,5 +54,4 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 [wphistory]: http://codex.wordpress.org/History
 [wikicms]: http://en.wikipedia.org/wiki/Content_management_system
 [w3techs]: http://w3techs.com/technologies/overview/content_management/all
-[wpvip]: http://vip.wordpress.com/clients/
 [wpreleases]: http://wordpress.org/download/release-archive/
