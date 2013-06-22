@@ -5,7 +5,7 @@ As this document is just getting started I'd like the WordPress community to con
 
 ## History
 
-WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mullenweg and Mike Little forked the software to create WordPress. As its onset, WordPress was a personal published platform: blogging software. Through its maturity, and most notable with the release of version 3.0 in 2010, WordPress is now considered a content management system. [[wphistory]]
+WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mullenweg and Mike Little forked the software to create WordPress. As its onset, WordPress was a personal publishing platform: blogging software. Through its maturity, and most notable with the release of version 3.0 in 2010, WordPress is now considered a content management system. [[wphistory]]
 
 > A content management system (CMS) is a computer program that allows publishing, editing and modifying content as well as maintenance from a central interface. Such systems of content management provide procedures to manage workflow in a collaborative environment. These procedures can be manual steps or an automated cascade. [[wikicms]]
 
@@ -55,7 +55,7 @@ WordPress, originally known as "b2 cafelog", was started in 2001 before Matt Mul
 
 *How does it integrate with systems large companies may use?*
 
-* [Installing WordPress on Microsoft ISS](http://codex.wordpress.org/Installing_on_Microsoft_IIS)
+* [Installing WordPress on Microsoft IIS](http://codex.wordpress.org/Installing_on_Microsoft_IIS)
 * Active Directory Authentication support. [[wpactivedirectory](http://wordpress.org/extend/plugins/active-directory-integration/)]
 
 [wphistory]: http://codex.wordpress.org/History
